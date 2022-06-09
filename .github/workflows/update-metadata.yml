@@ -2,7 +2,7 @@ name: Update Template Metadata
 on:
   push:
     branches:
-      - master
+      - ya-test
 permissions:
   contents: read
 
