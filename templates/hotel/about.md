@@ -6,7 +6,7 @@ This is more information about the hotel.
 
 This is about the hotel, its history and quality.
 
-- Montréal Hotel & Suits was built in 2018 by Jon Sakoda
+- Montréal Hotel & Suits was built in 2010 by John Smith
   - > how modern is the hotel
   - > is it an old hotel
 - The hotel has a 4 star rating
