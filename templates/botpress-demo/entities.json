@@ -1,0 +1,37 @@
+{
+  "lists": [
+    {
+      "name": "Venture Capital Company",
+      "synonyms": ["Decibel", "Inovia", "Panache"]
+    },
+    {
+      "name": "Softwate Company",
+      "synonyms": ["Botpress"]
+    },
+    {
+      "name": "Telecommunications Company",
+      "synonyms": ["Windstream"]
+    },
+    {
+      "name": "Non Profit Company",
+      "synonyms": ["Botpress for Good", "BFG"]
+    },
+    {
+      "name": "Software Service",
+      "synonyms": ["GitHub", "YouTube"]
+    },
+    {
+      "name": "Round of Financing",
+      "synonyms": ["Series A"]
+    },
+    {
+      "name": "Service-Level Agreement",
+      "synonyms": ["SLA"]
+    },
+    {
+      "name": "Software Application",
+      "synonyms": ["Chatbots"]
+    }
+  ],
+  "patterns": []
+}
