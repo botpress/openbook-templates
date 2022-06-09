@@ -9,14 +9,6 @@
       "synonyms": ["Botpress"]
     },
     {
-      "name": "Telecommunications Company",
-      "synonyms": ["Windstream"]
-    },
-    {
-      "name": "Non Profit Company",
-      "synonyms": ["Botpress for Good", "BFG"]
-    },
-    {
       "name": "Software Service",
       "synonyms": ["GitHub", "YouTube"]
     },
