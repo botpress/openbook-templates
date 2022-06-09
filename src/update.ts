@@ -25,7 +25,7 @@ const branch = 'ya-test'
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN })
 
 const getTemplateIds = async () => {
-  const res = await octokit.rest.repos.getContent({ ...base, path: '', ref: branch })
+  const res = await octokit.rest.repos.getContent({ ...base, path: 'templates', ref: branch })
 
   return (res.data as ContentResponse[])
     .filter((x) => x.type === 'dir')
