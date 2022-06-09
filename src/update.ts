@@ -21,7 +21,7 @@ interface TemplateEntry {
 }
 
 const base = { owner: 'botpress', repo: 'openbook-templates' }
-const branch = 'ya-test'
+const branch = 'main'
 
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN })
 

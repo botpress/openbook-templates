@@ -2,7 +2,7 @@ name: Update Template Metadata
 on:
   push:
     branches:
-      - ya-test
+      - main
 
 jobs:
   update_template:
