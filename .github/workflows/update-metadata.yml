@@ -24,11 +24,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: yarn update
 
-      - name: List changes
-        run: git status
-
-      - name: Stage new file
-        run: git add .
-
-      - name: Commit updated metadata
-        run: git commit -m "Auto-Update Metadata"
+      - uses: stefanzweifel/git-auto-commit-action@v4
