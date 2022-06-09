@@ -3,8 +3,6 @@ on:
   push:
     branches:
       - ya-test
-permissions:
-  contents: read
 
 jobs:
   update_template:
