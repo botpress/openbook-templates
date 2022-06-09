@@ -5,7 +5,7 @@
     "author": "Botpress",
     "category": "Business",
     "description": "Sample of book about Botpress",
-    "updatedAt": "2022-06-09T19:55:00.000Z"
+    "updatedAt": "2022-06-09T19:56:04.000Z"
   },
   {
     "id": "hotel",
@@ -13,6 +13,6 @@
     "author": "Botpress",
     "category": "Business",
     "description": "This is the Hotel chatbot that was built as part of the OpenBook benchmark whitepaper",
-    "updatedAt": "2022-06-09T19:55:00.000Z"
+    "updatedAt": "2022-06-09T19:56:04.000Z"
   }
 ]
