@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "botpress-demo",
+    "author": "Botpress",
+    "category": "Business",
+    "description": "Sample of book about Botpress",
+    "updatedAt": "2022-06-09T02:39:36.000Z"
+  }
+]
