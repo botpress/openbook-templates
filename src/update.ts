@@ -22,7 +22,7 @@ interface TemplateEntry {
 const base = { owner: 'botpress', repo: 'openbook-templates' }
 const branch = 'ya-test'
 
-const octokit = new Octokit()
+const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN })
 
 const getTemplateIds = async () => {
   const res = await octokit.rest.repos.getContent({ ...base, path: '', ref: branch })
@@ -34,11 +34,11 @@ const getTemplateIds = async () => {
 }
 
 const getTemplateMetadata = async (templateId: string) => {
-  const res = await axios.get<ContentResponse>(
-    `https://api.github.com/repos/botpress/openbook-templates/contents/botpress-demo/metadata.json?ref=ya-test`
-  )
-
   try {
+    const res = await axios.get<ContentResponse>(
+      `https://api.github.com/repos/botpress/openbook-templates/contents/templates/${templateId}/metadata.json?ref=${branch}`
+    )
+
     const updatedAt = moment(res.headers['last-modified']).toDate()
     const details = Buffer.from(res.data.content, 'base64').toString()
 
@@ -53,7 +53,9 @@ const updateFile = async () => {
 
   for (const id of await getTemplateIds()) {
     const metadata = await getTemplateMetadata(id)
-    templates.push(metadata)
+    if (metadata) {
+      templates.push(metadata)
+    }
   }
 
   fs.writeFileSync(path.resolve(__dirname, '../templates.json'), JSON.stringify(templates, undefined, 2))
