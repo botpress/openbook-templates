@@ -12,12 +12,12 @@ This is about our policy about pets at the hotel.
 
 ## Cigarette / Smoking / Vaping
 
-This is about the smoking or the cigarette policy in the hotel.
+This is about the cigarette & smoking policy at the hotel.
 
-- Smoking is not permited inside the hotel, guests are required to smoke cigarette outside the hotel.
+- Smoking is not permitted inside the hotel, guests are required to smoke cigarette outside the hotel.
 
 ## Best price policy
 
 This is our best price policy.
 
-- The hotel will honour lower prices offered elsewhere for the same dates and room. Guests must ask for the reception desk to receive the special price before check-in.
+- The hotel will honor lower prices offered elsewhere for the same dates and room. Guests must ask for the reception desk to receive the special price before check in.
