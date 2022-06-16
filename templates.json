@@ -1,18 +1,482 @@
 [
   {
+    "id": "accounting-software-company",
+    "title": "Accounting Software Company",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "all-news",
+    "title": "All News",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "architecture-company",
+    "title": "Architecture Company",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "asset-management",
+    "title": "Asset Management ",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "bar",
+    "title": "Bar",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "booklet",
+    "title": "Booklet",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
     "id": "botpress-demo",
     "title": "Botpress Demo",
     "author": "Botpress",
     "category": "Business",
     "description": "Sample of book about Botpress",
-    "updatedAt": "2022-06-10T19:12:52.000Z"
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "business-consultant",
+    "title": "Business Consultant",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "car-company",
+    "title": "Car Company",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "car-insurance-company-x",
+    "title": "Car Insurance Company X",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "cinema",
+    "title": "Cinema",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "clothing-retailer",
+    "title": "Clothing Retailer",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "coffee-company-cc",
+    "title": "Coffee Company Cc",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "consumer-goods-x-company",
+    "title": "Consumer Goods X Company",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "credit-rating-agency",
+    "title": "Credit Rating Agency",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "cruise-company",
+    "title": "Cruise Company",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "crypto-wallet",
+    "title": "Crypto Wallet",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "cryptocurrency",
+    "title": "Cryptocurrency",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "cybersecurity-provider",
+    "title": "Cybersecurity Provider",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "delivery-company",
+    "title": "Delivery Company",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "digital-marketing-agency",
+    "title": "Digital Marketing Agency",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "drinks-company-z",
+    "title": "Drinks Company Z",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "dynamic",
+    "title": "Dynamic",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "efflux",
+    "title": "Efflux",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "electronic-signature-company",
+    "title": "Electronic Signature Company",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "fast-food-x-y",
+    "title": "Fast Food X & Y ",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "film-production-company",
+    "title": "Film Production Company",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "film-streaming-services",
+    "title": "Film Streaming Services",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "games-platform",
+    "title": "Games Platform",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "gaming-platform",
+    "title": "Gaming Platform",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "group-discount-company",
+    "title": "Group Discount Company",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "gym-company",
+    "title": "Gym Company",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "health-insurance",
+    "title": "Health Insurance",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "hospital-x",
+    "title": "Hospital X",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
   },
   {
     "id": "hotel",
-    "title": "Hotel Business",
+    "title": "Hotel",
     "author": "Botpress",
+    "description": "",
     "category": "Business",
-    "description": "This is the Hotel chatbot that was built as part of the OpenBook benchmark whitepaper",
-    "updatedAt": "2022-06-10T19:12:52.000Z"
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "international-school",
+    "title": "International School",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "investment-bank",
+    "title": "Investment Bank",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "kindergarten-y",
+    "title": "Kindergarten Y",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "language-school-x",
+    "title": "Language School X",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "life-insurance",
+    "title": "Life Insurance",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "logistics-co",
+    "title": "[logistics Co.]",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "luxury-car-company",
+    "title": "Luxury Car Company",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "luxury-jewelry",
+    "title": "Luxury Jewelry",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "m-bottle-manufacturing-corp",
+    "title": "M Bottle Manufacturing Corp",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "m-doctors",
+    "title": "M Doctor’s",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "market-research-company",
+    "title": "Market Research Company",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "messaging-x",
+    "title": "[messaging X]",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "motion",
+    "title": "Motion",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "mus-x-music-streaming-service",
+    "title": "Mus X - Music Streaming Service",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "network-hardware-company",
+    "title": "Network Hardware Company",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "nft-marketplace",
+    "title": "Nft Marketplace",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "online-car-marketplace",
+    "title": "Online Car Marketplace",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "online-publication",
+    "title": "Online Publication",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "online-supermarket",
+    "title": "Online Supermarket",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "perfect-home",
+    "title": "Perfect Home",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "pharmaceutical-company-x",
+    "title": "Pharmaceutical Company X",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "phone-manufacturer",
+    "title": "Phone Manufacturer",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "rebar-realty",
+    "title": "Rebar Realty",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "restaurant",
+    "title": "Restaurant",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
+  },
+  {
+    "id": "solar-power-company",
+    "title": "Solar Power Company",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "updatedAt": "2022-06-16T19:31:42.000Z"
   }
 ]
