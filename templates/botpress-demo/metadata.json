@@ -2,5 +2,7 @@
   "title": "Botpress Demo",
   "author": "Botpress",
   "category": "Business",
-  "description": "Sample of book about Botpress"
+  "description": "Sample of book about Botpress",
+  "production": true,
+  "staging": true
 }

@@ -2,5 +2,7 @@
   "title": "Hotel",
   "author": "Botpress",
   "description": "",
-  "category": "Business"
+  "category": "Business",
+  "production": true,
+  "staging": true
 }

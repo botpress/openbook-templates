@@ -279,6 +279,18 @@
   resolved "https://registry.npmjs.org/@types/aws-lambda/-/aws-lambda-8.10.99.tgz#14fb91e5ee54d517f5b3209b027edddee9900ba6"
   integrity sha512-BLlr4HGGF9Ga5vvZumpuXuyFUIhnCZsOdjPWy/iCJi+NIYAw30jA3XC5tyVf2RfaXm5thMR2SC3DosDVIMhM5g==
 
+"@types/bluebird-global@^3.5.13":
+  version "3.5.13"
+  resolved "https://registry.npmjs.org/@types/bluebird-global/-/bluebird-global-3.5.13.tgz#8fee8f1075501e9b8bb56fc0539753c38ecdc8df"
+  integrity sha512-jmq47VdRYy8KPjXDlJ6zO5Ie+l5j0X2fGdSbfCS3mGdM93MTy50dh/EfltIv/QD15hCYTY+0lm/C0Bou1tPYnQ==
+  dependencies:
+    "@types/bluebird" "*"
+
+"@types/bluebird@*":
+  version "3.5.36"
+  resolved "https://registry.npmjs.org/@types/bluebird/-/bluebird-3.5.36.tgz#00d9301d4dc35c2f6465a8aec634bb533674c652"
+  integrity sha512-HBNx4lhkxN7bx6P0++W8E289foSu8kO8GCk2unhuVggO+cE7rh9DhZUyPhUxNRG9m+5B5BTKxZQ5ZP92x/mx9Q==
+
 "@types/btoa-lite@^1.0.0":
   version "1.0.0"
   resolved "https://registry.npmjs.org/@types/btoa-lite/-/btoa-lite-1.0.0.tgz#e190a5a548e0b348adb0df9ac7fa5f1151c7cca4"
@@ -378,6 +390,16 @@ before-after-hook@^2.2.0:
   version "2.2.2"
   resolved "https://registry.npmjs.org/before-after-hook/-/before-after-hook-2.2.2.tgz#a6e8ca41028d90ee2c24222f201c90956091613e"
   integrity sha512-3pZEU3NT5BFUo/AD5ERPWOgQOCZITni6iavr5AUw5AUwQjMlI0kzu5btnyD39AF0gUEsDPwJT+oY1ORBJijPjQ==
+
+bluebird-global@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/bluebird-global/-/bluebird-global-1.0.1.tgz#147c174f4e3a19740e80d992ea70ec3dc51d0d95"
+  integrity sha512-llTREi0V3EUM150DKdMLlXN/X2QsQ/hWJDiaGnivqeDwE32I0dmivYLU9/VvhotTzvvbv7OiM6zjVXYJ2dCmKQ==
+
+bluebird@^3.7.2:
+  version "3.7.2"
+  resolved "https://registry.npmjs.org/bluebird/-/bluebird-3.7.2.tgz#9f229c15be272454ffa973ace0dbee79a1b0c36f"
+  integrity sha512-XpNj6GDQzdfW+r2Wnn7xiSAd7TM3jzkxGXBGTtWKuSXv1xUV+azxAm8jdWZN06QTQk+2N2XB9jRDkvbmQmcRtg==
 
 bottleneck@^2.15.3:
   version "2.19.5"
@@ -591,6 +613,11 @@ lodash.once@^4.0.0:
   version "4.1.1"
   resolved "https://registry.npmjs.org/lodash.once/-/lodash.once-4.1.1.tgz#0dd3971213c7c56df880977d504c88fb471a97ac"
   integrity sha512-Sb487aTOCr9drQVL8pIxOzVhafOjZN9UU54hiN8PU3uAiSV7lx1yYNpbNmex2PK6dSJoNTSJUUswT651yww3Mg==
+
+lodash@^4.17.21:
+  version "4.17.21"
+  resolved "https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 lru-cache@^6.0.0:
   version "6.0.0"

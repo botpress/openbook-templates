@@ -3,6 +3,9 @@ import { Octokit } from 'octokit'
 import moment from 'moment'
 import fs from 'fs'
 import path from 'path'
+import { exec } from 'child_process'
+import 'bluebird-global'
+import _ from 'lodash'
 
 interface ContentResponse {
   name: string
@@ -20,48 +23,49 @@ interface TemplateEntry {
   updatedAt: Date
 }
 
-const base = { owner: 'botpress', repo: 'openbook-templates' }
-
-const branchWithoutHead = process.env.GITHUB_REF?.replace('refs/heads/', '')
-const branch = branchWithoutHead || 'main'
-
-const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN })
-
-const getTemplateIds = async () => {
-  const res = await octokit.rest.repos.getContent({ ...base, path: 'templates', ref: branch })
-
-  return (res.data as ContentResponse[])
-    .filter((x) => x.type === 'dir')
-    .sort((a, b) => a.name.localeCompare(b.name))
-    .map((x) => x.name)
-}
-
-const getTemplateMetadata = async (templateId: string) => {
-  try {
-    const res = await axios.get<ContentResponse>(
-      `https://api.github.com/repos/botpress/openbook-templates/contents/templates/${templateId}/metadata.json?ref=${branch}`
-    )
-
-    const updatedAt = moment(res.headers['last-modified']).toDate()
-    const details = Buffer.from(res.data.content, 'base64').toString()
-
-    return { id: templateId, ...JSON.parse(details), updatedAt }
-  } catch (err) {
-    console.error('Error getting metadata for', templateId, err)
-  }
-}
-
 const updateFile = async () => {
-  const templates: TemplateEntry[] = []
+  const templatesRoot = path.resolve(__dirname, '../templates')
 
-  for (const id of await getTemplateIds()) {
-    const metadata = await getTemplateMetadata(id)
-    if (metadata) {
-      templates.push(metadata)
+  const templates: TemplateEntry[] = []
+  const templates_staging: TemplateEntry[] = []
+  const templates_prod: TemplateEntry[] = []
+
+  for (const id of fs.readdirSync(templatesRoot)) {
+    const json = path.join(templatesRoot, id, 'metadata.json')
+
+    try {
+      if (fs.existsSync(json)) {
+        const metadata = JSON.parse(fs.readFileSync(json).toString())
+        const editedAt = await Promise.fromCallback((cb) => exec(`git log -n 1 --pretty=format:%cd ${json}`, cb))
+
+        const entry = { id, ..._.omit(metadata, ['production', 'staging']), updatedAt: new Date(editedAt as string) }
+
+        templates.push(entry)
+
+        if (metadata.production) {
+          templates_prod.push(entry)
+        }
+
+        if (metadata.staging) {
+          templates_staging.push(entry)
+        }
+      }
+    } catch (err) {
+      console.error('Error processing', id)
     }
   }
 
   fs.writeFileSync(path.resolve(__dirname, '../templates.json'), JSON.stringify(templates, undefined, 2))
+
+  fs.writeFileSync(
+    path.resolve(__dirname, '../templates.production.json'),
+    JSON.stringify(templates_prod, undefined, 2)
+  )
+
+  fs.writeFileSync(
+    path.resolve(__dirname, '../templates.staging.json'),
+    JSON.stringify(templates_staging, undefined, 2)
+  )
 }
 
 updateFile()
