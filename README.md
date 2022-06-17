@@ -9,6 +9,13 @@ Example:
   "title": "",
   "author": "r",
   "category": "Business",
-  "description": ""
+  "description": "",
+  "production": true,
+  "staging": true,
+  "updatedAt": ""
 }
 ```
+
+Setting `production` to `true` will display the template on the production playground. Same thing for staging.
+
+Setting updatedAt is not necessary, if not provided, it will use the last commit date

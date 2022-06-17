@@ -36,11 +36,16 @@ const updateFile = async () => {
     try {
       if (fs.existsSync(json)) {
         const metadata = JSON.parse(fs.readFileSync(json).toString())
-        const editedAt = await Promise.fromCallback((cb) => exec(`git log -n 1 --pretty=format:%cd ${json}`, cb))
 
-        const entry = { id, ..._.omit(metadata, ['production', 'staging']), updatedAt: new Date(editedAt as string) }
+        if (!metadata.updatedAt) {
+          const commitDate = await Promise.fromCallback<string>((cb) =>
+            exec(`git log -n 1 --pretty=format:%cd ${json}`, cb)
+          )
 
-        templates.push(entry)
+          metadata.updatedAt = new Date(commitDate)
+        }
+
+        const entry = { id, ..._.omit(metadata, ['production', 'staging']) }
 
         if (metadata.production) {
           templates_prod.push(entry)
@@ -49,6 +54,8 @@ const updateFile = async () => {
         if (metadata.staging) {
           templates_staging.push(entry)
         }
+
+        templates.push(entry)
       }
     } catch (err) {
       console.error('Error processing', id)
