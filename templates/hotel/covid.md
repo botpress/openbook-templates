@@ -2,7 +2,7 @@
 
 This is information about how the hotel handles COVID.
 
-## Vaccine passport (Quebec residents, nonresidents)
+## Vaccine passport (Quebec residents, non-residents)
 
 This is about the requirement of a vaccination passport for COVID.
 
@@ -26,4 +26,4 @@ This is about our cancellation policy specific to COVID.
 - The Montreal Hotel & Suites takes the health and safety of the guests seriously
 - Guests must call the hotel to cancel if they have tested positive to a COVID test
 - Guests must call the hotel to cancel if they have symptoms of COVID
-- Cancellation for COVID related reasons carries no charge to the guests and can be done at any time
+- Cancellation for COVID-related reasons carries no charge to the guests and can be done at any time

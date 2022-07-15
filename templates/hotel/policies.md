@@ -20,4 +20,4 @@ This is about the cigarette & smoking policy at the hotel.
 
 This is our best price policy.
 
-- The hotel will honor lower prices offered elsewhere for the same dates and room. Guests must ask for the reception desk to receive the special price before check in.
+- The hotel will honor lower prices offered elsewhere for the same dates and room. Guests must ask for the reception desk to receive the special price before check-in.

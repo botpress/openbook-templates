@@ -4,7 +4,7 @@ This is information about hotel gift cards.
 
 ## General
 
-This is general information about purchasing gift cards
+This is about the possibility to puchase a gift card.
 
 - Guests can purchase gift cards at the reception desk
 - Gift cards expire 2 years after their purchase date

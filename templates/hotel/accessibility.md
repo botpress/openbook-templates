@@ -4,13 +4,13 @@ This is about facilities in place for disabled & handicapped people.
 
 ## Elevator
 
-This is about the availability of elevators and lifts.
+This is about availability of elevators and lifts.
 
 - All rooms can be accessed by elevator
 
 ## Wheelchair access
 
-This is about which facilities are accessible for wheelchairs.
+This is about which facilities are accessible for wheelchair.
 
 - Guests in wheelchair can go everywhere in the hotel as there are ramps and elevators for every rooms and facilities
 

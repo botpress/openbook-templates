@@ -10,7 +10,7 @@ This is about how we can help accommodate business meetings at our hotel.
 - Contact the reception for prices and availability
 - Conference rooms can host up to 8 persons
 - Food and drink delivery can be arranged by the hotel staff
-- Each business room is equipped with a projector screen and flatscreen TV
+- Each business room is equipped with a projector screen and flat-screen TV
 
 ## Services / Features / Amenities
 
@@ -20,4 +20,5 @@ This is about amenities, services and features available for business.
 - The hotel has a fax, printer, copier available
 - You can upgrade to high speed internet on demand
 - The hotel offers a mailbox service
+  - > receive packages for me
 - The hotel offers a receptionist service for your business
