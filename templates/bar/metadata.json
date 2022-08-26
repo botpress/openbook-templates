@@ -1,7 +1,7 @@
 {
   "title": "Bar",
   "author": "Botpress",
-  "description": "",
+  "description": "A simple bar business template.",
   "category": "Business",
   "icon": "blueprint:glass",
   "staging": true,
