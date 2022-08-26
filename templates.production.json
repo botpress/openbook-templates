@@ -1,5 +1,14 @@
 [
   {
+    "id": "bar",
+    "title": "Bar",
+    "author": "Botpress",
+    "description": "",
+    "category": "Business",
+    "icon": "blueprint:glass",
+    "updatedAt": "2022-08-26T02:43:28.000Z"
+  },
+  {
     "id": "botpress-demo",
     "title": "Botpress Demo",
     "author": "Botpress",
