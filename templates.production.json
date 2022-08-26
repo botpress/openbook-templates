@@ -3,10 +3,10 @@
     "id": "bar",
     "title": "Bar",
     "author": "Botpress",
-    "description": "",
+    "description": "A simple bar business template.",
     "category": "Business",
     "icon": "blueprint:glass",
-    "updatedAt": "2022-08-26T02:43:28.000Z"
+    "updatedAt": "2022-08-26T02:45:28.000Z"
   },
   {
     "id": "botpress-demo",
