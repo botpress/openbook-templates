@@ -5,5 +5,6 @@
   "description": "This is the Hotel chatbot that was built as part of the OpenBook benchmark whitepaper",
   "production": true,
   "staging": true,
-  "updatedAt": "2022-06-16T19:24:33.000Z"
+  "updatedAt": "2022-06-16T19:24:33.000Z",
+  "icon": "blueprint:office"
 }
