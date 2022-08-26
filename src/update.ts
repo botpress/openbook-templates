@@ -21,6 +21,7 @@ interface TemplateEntry {
   category: string
   description: string
   updatedAt: Date
+  icon?: string
 }
 
 const updateFile = async () => {
