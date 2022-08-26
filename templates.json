@@ -5,7 +5,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "all-news",
@@ -13,7 +13,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "architecture-company",
@@ -21,7 +21,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "asset-management",
@@ -29,7 +29,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "bar",
@@ -37,7 +37,8 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "icon": "blueprint:glass",
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "booklet",
@@ -45,7 +46,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "botpress-demo",
@@ -61,7 +62,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "car-company",
@@ -69,7 +70,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "car-insurance-company-x",
@@ -77,7 +78,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "cinema",
@@ -85,7 +86,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "clothing-retailer",
@@ -93,7 +94,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "coffee-company-cc",
@@ -101,7 +102,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "consumer-goods-x-company",
@@ -109,7 +110,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "credit-rating-agency",
@@ -117,7 +118,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "cruise-company",
@@ -125,7 +126,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "crypto-wallet",
@@ -133,7 +134,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "cryptocurrency",
@@ -141,7 +142,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "cybersecurity-provider",
@@ -149,7 +150,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "delivery-company",
@@ -157,7 +158,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "digital-marketing-agency",
@@ -165,7 +166,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "drinks-company-z",
@@ -173,7 +174,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "dynamic",
@@ -181,7 +182,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "efflux",
@@ -189,7 +190,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "electronic-signature-company",
@@ -197,7 +198,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "fast-food-x-y",
@@ -205,7 +206,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "film-production-company",
@@ -213,7 +214,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "film-streaming-services",
@@ -221,7 +222,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "games-platform",
@@ -229,7 +230,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "gaming-platform",
@@ -237,7 +238,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "group-discount-company",
@@ -245,7 +246,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "gym-company",
@@ -253,7 +254,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "health-insurance",
@@ -261,7 +262,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "hospital-x",
@@ -269,7 +270,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "hotel",
@@ -286,7 +287,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "investment-bank",
@@ -294,7 +295,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "kindergarten-y",
@@ -302,7 +303,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "language-school-x",
@@ -310,7 +311,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "life-insurance",
@@ -318,7 +319,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "logistics-co",
@@ -326,7 +327,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "luxury-car-company",
@@ -334,7 +335,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "luxury-jewelry",
@@ -342,7 +343,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "m-bottle-manufacturing-corp",
@@ -350,7 +351,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "m-doctors",
@@ -358,7 +359,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "market-research-company",
@@ -366,7 +367,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "messaging-x",
@@ -374,7 +375,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "motion",
@@ -382,7 +383,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "mus-x-music-streaming-service",
@@ -390,7 +391,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "network-hardware-company",
@@ -398,7 +399,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "nft-marketplace",
@@ -406,7 +407,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "online-car-marketplace",
@@ -414,7 +415,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "online-publication",
@@ -422,7 +423,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "online-supermarket",
@@ -430,7 +431,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "perfect-home",
@@ -438,7 +439,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "pharmaceutical-company-x",
@@ -446,7 +447,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "phone-manufacturer",
@@ -454,7 +455,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "rebar-realty",
@@ -462,7 +463,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "restaurant",
@@ -470,7 +471,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "solar-power-company",
@@ -478,7 +479,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "space-company",
@@ -486,7 +487,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "sports-betting-company",
@@ -494,7 +495,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "stock-exchange",
@@ -502,7 +503,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "storage-plus",
@@ -510,7 +511,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "tool-manufacturer",
@@ -518,7 +519,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "train-company",
@@ -526,7 +527,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "turbine-x",
@@ -534,7 +535,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "university",
@@ -542,7 +543,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "video-games-company",
@@ -550,7 +551,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "video-hosting-company-y-a-v",
@@ -558,7 +559,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "water-x",
@@ -566,7 +567,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "yoga-studio-yogaopolis",
@@ -574,7 +575,7 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   },
   {
     "id": "z-commodity-exchange",
@@ -582,6 +583,6 @@
     "author": "Botpress",
     "description": "",
     "category": "Business",
-    "updatedAt": "2022-08-26T02:39:36.000Z"
+    "updatedAt": "2022-08-26T02:42:24.000Z"
   }
 ]
