@@ -3,5 +3,7 @@
   "author": "Botpress",
   "description": "",
   "category": "Business",
-  "icon": "blueprint:glass"
+  "icon": "blueprint:glass",
+  "staging": true,
+  "production": true
 }
